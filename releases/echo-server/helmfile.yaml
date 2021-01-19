@@ -20,6 +20,7 @@ releases:
   cleanupOnFail: true
   installed: {{ .Values.installed }}
   values:
+  - "defaults.yaml"
   - resources:
     - apiVersion: apps/v1
       kind: Deployment
