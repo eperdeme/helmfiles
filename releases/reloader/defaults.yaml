@@ -1,6 +1,6 @@
 # These default values can be overridden per environment in config/<env>.yaml files
 
-chart_version: "v0.0.68"
+chart_version: "v0.0.67"
 
 limit_cpu: "20m"
 
